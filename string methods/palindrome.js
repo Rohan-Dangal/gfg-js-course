@@ -22,3 +22,9 @@ let str3 = "iknowthisisnot";
 console.log(ispalindrome(str1));
 console.log(ispalindrome(str2));
 console.log(ispalindrome(str3));
+
+
+// Note:
+// split is a string method that turns a string into an Array.
+
+// reverse is an array method that simply reverses the array elements. so it doesnot accept any parameters
