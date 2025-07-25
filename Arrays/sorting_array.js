@@ -1,0 +1,1 @@
+// given an array arr[]. check whether it is sorted in non-decreasing order. return true if its sorted otherwise false
